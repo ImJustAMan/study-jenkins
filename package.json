@@ -2,5 +2,9 @@
   "name": "jenkins-study",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
+  }
 }
